@@ -6,5 +6,5 @@ Atividade Recrinado apgina do instagram com Responsividad :grinning:
  - flex-box
  - Responsividade Mobil
 
-a aplição do conhecimeto no projeto ajuda a entende melhor e fixar os 
-conhecimento sobre posisinamento com flex-box
+`a aplição do conhecimeto no projeto ajuda a entende melhor e fixar os` 
+`conhecimento sobre posisinamento com flex-box`
